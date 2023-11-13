@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm Valentin Le Lievre
+
+I'm currently studying electronic and computer science at Polytech Sorbonne in Paris France but in my free time I like to use my fronted dev skills.
+
+I'm currently working on [MonUFR](https://app.monufr.fr), it's an app dedicated to students of all french universities wich allow students to acces their timetable om thier phones. Check out the Git Repo to see more.
+
+I'm also working with a friend on a game called [WikiChallenge](https://github.com/Valadri-games/WikiChallenge-website.git), it's currently in beta but it will be available soon.
+
+Feel free to reach me on my [LinkedIn account](https://linkedin.com/in/valentin-le-lievre) 
 
 <!--
 **valentin-llv/valentin-llv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
