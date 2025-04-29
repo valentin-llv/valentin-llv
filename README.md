@@ -1,23 +1,39 @@
-## Hi there 👋, I'm Valentin Le Lievre
+### 👋 Hi, I'm Valentin Le Lievre
 
-🌱. I'm studying electronic and computer science at Polytech Sorbonne in Paris France but in my free time I like to use my fronted dev skills.
+🎓 **Final-year engineering student** at **Polytech Sorbonne** (Paris, France), specializing in **embedded systems** — a crossroad between electronics and computer science. Passionate about **aerospace**, I’m particularly interested in flight software and autonomous embedded systems.
 
- 🔭. I'm currently working on [MonUFR](https://app.monufr.fr), it's an app dedicated to students of all french universities wich allow students to acces their timetable on their phones. Check out the Github Repo to see more.
-I'm also working with a friend on a game called [WikiChallenge](https://github.com/Valadri-games/WikiChallenge-website), it's currently in beta but it will be available soon.
+---
 
-📫. Feel free to reach me on my [LinkedIn account](https://linkedin.com/in/valentin-le-lievre) or with my [email](valentin.le_lievre@etu.sorbonne-universite.fr)
+🛠️ **Technical interests:**
+- Low-level programming (C / C++)
+- FPGA development (VHDL)
+- RISC-V assembly
+- Real-time operating systems (RTOS)
+- Communication protocols: SPI, CAN, RS232, etc.
+- IoT & autonomous systems
+- Web development (for personal projects)
 
-<!--
-**valentin-llv/valentin-llv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 **Current projects:**
+- 🛰️ **Satellite imagery receiver**  
+  Capturing and processing NOAA weather satellite images.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚁 **FPV drone**  
+  Built and configured from scratch (hardware & software).
+
+🔭 **Past projects:**
+- 🎮 **Gameboy emulator**  
+  Simple Gameboy emulator written in C++
+  
+- 🎮 **WikiChallenge**  
+  Trivia game (beta) developed with a friend.
+
+  - 🌐 **MonUFR**  
+  Web/mobile app helping French university students access their class schedules easily.
+
+---
+
+🌱 Always learning, building, and looking for opportunities to collaborate on exciting tech or space-related projects.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/valentinlelievre) or reach out via email!
