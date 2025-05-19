@@ -36,4 +36,4 @@
 
 🌱 Always learning, building, and looking for opportunities to collaborate on exciting tech or space-related projects.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/valentinlelievre) or reach out via email!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/valentin-le-lievre) or reach out via email!
